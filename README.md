@@ -4,3 +4,4 @@
 Данные, по которым построен дашборд содержатся в Data.xlsx.
 
 Описание данных находится в Info
+![Dashboard](https://github.com/Octopulus/Power-BI/assets/122912834/1f4b4d99-b1dd-492e-942d-9a93a9190299)
